@@ -1,0 +1,27 @@
+{
+  "name": "prototying-boilerplate",
+  "version": "1.0.0",
+  "description": "Boilerplate for prototyping and templating",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lukasholzer/prototying-boilerplate.git"
+  },
+  "keywords": [
+    "sass",
+    "typescript",
+    "hbs"
+  ],
+  "author": "Lukas Holzer <lukas.holzer@typeflow.cc>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lukasholzer/prototying-boilerplate/issues"
+  },
+  "homepage": "https://github.com/lukasholzer/prototying-boilerplate#readme",
+  "devDependencies": {
+    "webpack": "^3.8.1"
+  }
+}
